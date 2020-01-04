@@ -1,5 +1,5 @@
-# Deepfake-with-Synthetic-Face-Image
-Deepfake with Synthetic Face Image project
+# Deepfake with Synthetic Face Image project
+
 Please manually download the pre-trained pg-GAN model (provided by Nvidia), the trained feature extractor network, and the discovered feature axis from my personal dropbox link
 
 Decompress the downloaded files and put it in project directory as the following format
