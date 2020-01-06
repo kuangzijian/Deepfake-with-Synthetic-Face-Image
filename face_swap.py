@@ -191,7 +191,7 @@ def alpha_feathering(src_img, dest_img, img_mask, blur_radius=15):
 
 
 def check_points(img,points):
-    # Todo: I just consider one situation.
+    # I just consider one situation.
     if points[8,1]>img.shape[0]:
         logging.error("Jaw part out of image")
     else:
